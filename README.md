@@ -1,5 +1,5 @@
 # vacation-related-reactRedux-Project
-This project is about to show the vacation related data that is fetched from API of github by using redux and async react fetch with pagination and filtering, sorting option.<br>
+This project is about to show the vacation related data that is fetched from API of github by using Redux, Thunk and async React fetch with pagination and filtering, sorting option.<br>
 
 Used my github Api to store data."https://my-json-server.typicode.com/sathiyavalli/places/datas"<br>
 

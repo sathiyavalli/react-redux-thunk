@@ -1,0 +1,131 @@
+@font-face {
+  font-family: sffont;
+  src: url(sf-pro.ttf);
+}
+.wholeBody .row{
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+label.filter-label {
+    display: block;
+    width: 100%;
+    margin-left: 34%;
+    height: 0px;
+    margin-top: -14px;
+}
+.form-control{
+  width: 40% !important;
+}
+
+body.whole{
+font-family:  sffont  !important;
+background-color:  #F6F8F9 !important;
+}
+.wholeBody{
+background-image: url('images/background.png');
+background-size: 1440px 962px;
+background-repeat: no-repeat;
+background-position: top center;
+color: #173753 !important;
+}
+.bgcenter{
+  background-color: #ffffff !important;
+  color: #173753;
+}
+.intro-content{
+    background-color: #f4f4f4;
+    padding: 0px !important;
+    margin: 0px !important;
+}
+.image-nopadding{
+    padding: 0px;
+}
+.alert-sucess, .alert-danger{
+  position: relative;;
+  z-index: 9999;
+}
+.restaurant_value{
+  background-color: #f2f2f2;
+}
+
+/**pagination**/
+.pagination {
+  margin: 15px auto;
+  display: flex;
+  list-style: none;
+  outline: none;
+}
+.pagination > .active > a{
+  background-color: #47ccde ;
+  border-color: #47ccde ;
+  color: #fff;
+}
+.pagination > li > a{
+  border: 1px solid #47ccde ;
+  padding: 5px 10px;
+  outline: none;
+  cursor: pointer;
+}
+.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus{
+  background-color: #47ccde ;
+  border-color: #47ccde;
+  outline: none ;
+}
+.pagination > li > a, .pagination > li > span{
+  color: #47ccde
+}
+.pagination > li:first-child > a, .pagination > li:first-child > span, .pagination > li:last-child > a, .pagination > li:last-child > span{
+  border-radius: unset
+}
+
+.reviewHead{
+  color: #ffffff;
+}
+.intro{
+  font-size: 16px;
+  color:#ffffff;
+  line-height: 22px;
+}
+.introBold{
+  color: #FFFFFF;
+  font-size: 32px !important;
+  font-weight: 600;
+  line-height: 38px !important;
+}
+.styles_kPagination__1qVvD{
+  padding: 0!important;
+}
+
+.styles_kPaginationListPage__2_6Ph{
+  width: 67%;
+    margin: auto !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.labelsort{
+  font-size: 14px !important;
+  color:#ffffff !important;
+}
+.reviewCount{
+  color:#173753;
+  font-size: 15px;
+  border-radius:4px;
+  font-size: 34px;
+  line-height: 45px;
+}
+.reviewedby{
+  color: #5B7186 !important;
+  font-size: 14px !important;
+}
+.lineheightSmall{
+  line-height: 18px;
+}
+.lineheightLarge{
+  line-height: 24px;
+}
+.inner_content{
+  font-size: 16px !important;
+}
+.author{
+  font-size: 14px !important;
+}

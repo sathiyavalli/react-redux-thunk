@@ -8,3 +8,5 @@ Used "react-pagination-list" for pagination<br>
 Sorting done by using javascript sorting<br>
 filtering done by used filter option in array of datas.<br>
 Used Bootstrap module for responsive page<br>
+
+Keywords: reactredux, reduxThunk, react-pagination, JSON API, Github API, Filtering, Sorting, Bootstrap responsive
